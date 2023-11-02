@@ -79,9 +79,7 @@ def LoadPostCodes():
 def checkDuplicateLink(link):
     if link.strip() == "":
         return False
-    if link in old_urls:
-        return True
-    return False
+    return link in old_urls
 
 
 if __name__ == "__main__":
