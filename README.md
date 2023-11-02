@@ -1,4 +1,4 @@
-# autobutler.dk Company Data Scraper in Python
+# Autobutler.dk Company Data Scraper in Python
 A Python software for scraping company lists under each postcode provided in a list
 
 # Purpose of this project
